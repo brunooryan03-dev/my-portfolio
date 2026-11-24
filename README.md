@@ -1,2 +1,2 @@
 # my-portfolio
- using old hardware to make new builds
+ Using old hardware to make new builds and code for it.
